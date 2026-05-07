@@ -1,0 +1,40 @@
+#balls{
+    color: rgb(111, 209, 50);
+    font-size: 67px;
+    text-align: center;
+    align-content: center;
+}
+#test{
+    background-color: rgb(7, 160, 255);
+}
+#normal-text{
+    color: rgb(105, 50, 74);
+    font-size: 20px;
+    text-align: center;
+}
+#aint-normal-text{
+    color: rgb(177, 32, 32);
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#image{
+    width: 800px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ho{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+#image-caption{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
+.testin{
+    background-color: rgb(225, 161, 161);
+}

@@ -1,0 +1,1 @@
+alert("welcome to my prescript device, this is a device that can give you a prescript every day, and today prescript is...")
