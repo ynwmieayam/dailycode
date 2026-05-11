@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+.card-container {
+    justify-content: center;
+    text-align: center;
+    background-color: bisque;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  background-color: black;
+}
+.card{
+    color: black;
+}
